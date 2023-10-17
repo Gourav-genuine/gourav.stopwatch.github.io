@@ -1,0 +1,59 @@
+.main {
+  margin-top: 10%;
+  margin-left: 38%;
+}
+#stopwatch_body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  background-color: #d44c4c;
+  position: relative;
+  z-index: 1;
+  height: 230px;
+  width: 150px;
+  margin-left: 25px;
+  margin-top: -36px;
+}
+
+#stopwatch_head {
+  display: flex;
+  justify-content: center;
+  background-color: brown;
+  z-index: 2;
+  position: relative;
+
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+#viewing_area {
+  border: 1px solid black;
+  height: 75px;
+  width: 150px;
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font: 2em sans-serif;
+}
+
+#controls {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 144px;
+}
+
+.button {
+  width: 104px;
+  height: 46px;
+  border-radius: 10px;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
