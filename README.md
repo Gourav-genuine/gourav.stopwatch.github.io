@@ -5,4 +5,4 @@
 # How to run :
 # 1. Open index.html in web browser. That's it :)
 
-# Please mail reach out to Gourav Kashyap for any bugs or improvement suggestions.
+# Please reach out to Gourav Kashyap for any bugs or improvement suggestions.
